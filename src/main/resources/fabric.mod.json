@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "no-repair-penalty",
-  "version": "${version}",
+  "id": "no-anvil-repair-penalty",
+  "version": "0.0",
   "name": "No Repair Penalty",
-  "description": "Removes the enchantment and repair penalty from anvils",
+  "description": "Removes the cumulative enchantment and repair cost from Anvils",
   "authors": [
-    "TMShader"
+    "TMShader",
+    "netGar"
   ],
   "contact": {
-    "homepage": "https://github.com/tmshader/no-anvil-penalty",
-    "issues": "https://github.com/tmshader/no-anvil-penalty/issues",
-    "sources": "https://github.com/tmshader/no-anvil-penalty"
+    "issues": "https://github.com/netGar37/No-Anvil-Repair-Penalty/issues",
+    "sources": "https://github.com/netGar37/No-Anvil-Repair-Penalty"
   },
   "license": "Apache-2.0",
   "icon": "assets/no-repair-penalty/icon.png",
@@ -24,7 +24,7 @@
     "no-repair-penalty.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=${loader_version}",
-    "minecraft": "${minecraft_version}"
+    "fabricloader": "0.18.4",
+    "minecraft": "1.21.11"
   }
 }
