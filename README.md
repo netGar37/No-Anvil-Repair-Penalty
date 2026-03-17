@@ -6,3 +6,4 @@ This is an updated fork of TMShader's [No Anvil Penalty](https://github.com/tmsh
 
 ### Supported and tested versions
 
+- 1.21.11

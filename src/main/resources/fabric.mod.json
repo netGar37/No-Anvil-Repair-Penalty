@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "no-anvil-repair-penalty",
-  "version": "0.0",
+  "version": "0.1",
   "name": "No Repair Penalty",
   "description": "Removes the cumulative enchantment and repair cost from Anvils",
   "authors": [
