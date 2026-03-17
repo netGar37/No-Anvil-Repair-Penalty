@@ -13,7 +13,7 @@
     "sources": "https://github.com/netGar37/No-Anvil-Repair-Penalty"
   },
   "license": "Apache-2.0",
-  "icon": "assets/no-repair-penalty/icon.png",
+  "icon": "assets/no-anvil-repair-penalty/icon.png",
   "environment": "server",
   "entrypoints": {
     "main": [
@@ -24,7 +24,7 @@
     "no-repair-penalty.mixins.json"
   ],
   "depends": {
-    "fabricloader": "0.18.4",
-    "minecraft": "1.21.11"
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11"
   }
 }
